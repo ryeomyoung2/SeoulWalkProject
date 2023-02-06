@@ -17,7 +17,6 @@
 **주요기능** 
 - **메인화면**
 
- ![1](https://user-images.githubusercontent.com/115764986/216860479-51b211c0-8e9f-4056-96f3-33a9d99999ba.jpg)
  <img src="https://user-images.githubusercontent.com/115764986/216860479-51b211c0-8e9f-4056-96f3-33a9d99999ba.jpg"  width="600" height="480">
 
 - **둘레길 코스**
@@ -25,3 +24,7 @@
   - DB(경도, 위도) - Controller - Javascript 를 통해 경로 시각화
 
  ![2](https://user-images.githubusercontent.com/115764986/216862469-43fe4edc-c41c-4814-88cd-0f65d68a4e7a.gif)
+ 
+ - **추천 코스**
+  - 코스 리뷰 : 각 코스별 리뷰 게시판 구현, Ajax를 사용한 비동기 페이징 구현
+
