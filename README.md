@@ -23,4 +23,4 @@
   - 서울 둘레길 코스 시각화 : 네이버 map api를 사용하여 지도 표시
   - DB(경도, 위도) - Controller - Javascript 를 통해 경로 시각화
 
- ![1](https://user-images.githubusercontent.com/115764986/216860479-51b211c0-8e9f-4056-96f3-33a9d99999ba.jpg)
+ ![1](https://user-images.githubusercontent.com/115764986/216862223-88321ba5-1b44-4508-b9a9-2de5e82b77e3.jpg)
