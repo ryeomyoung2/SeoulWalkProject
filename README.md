@@ -61,4 +61,4 @@
     - 소셜 로그인 : OAUTH2.0 라이브러리 사용, 로그인 시 세션(Session) 생성
     - 접근 제한 : 세션값을 검증하여 로그인 페이지로 이동, 로그인 시 이전 페이지로 이동
    
-    ![6](https://user-images.githubusercontent.com/115764986/216868847-c178f9cc-b272-4ad1-97f0-592f6aacf297.gif)
+    ![7](https://user-images.githubusercontent.com/115764986/216869979-64717429-6814-4fea-8506-f2d84788f8fa.gif)
