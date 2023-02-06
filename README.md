@@ -19,8 +19,6 @@
 
    <img src="https://user-images.githubusercontent.com/115764986/216860479-51b211c0-8e9f-4056-96f3-33a9d99999ba.jpg"  width="600" height="480">
 
- <br><br><br><br>
-
 - **둘레길 코스**
   - 서울 둘레길 코스 시각화 : 네이버 map api를 사용하여 지도 표시
   - DB(경도, 위도) - Controller - Javascript 를 통해 경로 시각화
@@ -54,5 +52,13 @@
  - **커뮤니티**
    - 공지사항 : 관리자 계정만 사용 가능하도록 접근 제한
    - 커뮤니티 : CRUD기능, 추천, JPA를 활용한 게시글 페이징과 검색
+   
+    ![6](https://user-images.githubusercontent.com/115764986/216868847-c178f9cc-b272-4ad1-97f0-592f6aacf297.gif)
+ 
+  <br><br><br><br>
+ 
+  - **소셜 로그인**
+   - 소셜 로그인 : OAUTH2.0 라이브러리 사용, 로그인 시 세션(Session) 생성
+   - 접근 제한 : 세션값을 검증하여 로그인 페이지로 이동, 로그인 시 이전 페이지로 이동
    
     ![6](https://user-images.githubusercontent.com/115764986/216868847-c178f9cc-b272-4ad1-97f0-592f6aacf297.gif)
