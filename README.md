@@ -1,4 +1,6 @@
-# SeoulWalkProject **서울 둘레길 코스 정보/추천 사이트 프로젝트**  
+## Project
+
+ **서울 둘레길 코스 정보/추천 사이트 프로젝트**  
 - **작업툴**: Spring Tool Suite (4.16.1), vscode (1.74.3)
 - **데이터베이스**: MySql
 - **서버 배포**: AWS Lightsail
