@@ -10,6 +10,6 @@
 - **기간**: 2022.12.16 - 2023.01.27  
 - **내용**
   - 둘레길 산책을 좋아하거나 취미로 새로 유입되는 서울 시민들을 위해 서울 둘레길의 정보를 제공하는 웹페이지 제작
-- 폴더명: [SeoulWalkProject](https://github.com/ryeomyoung2/SeoulWalkProject)
+- 폴더명: SeoulWalkProject
 - [최종PDF](https://github.com/ryeomyoung2/SeoulWalkProject/blob/main/SeoulWalk/Seoul%20Walk.pdf)
 - [시연영상](https://www.youtube.com/watch?v=FQA0DWPVtXA)
