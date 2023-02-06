@@ -13,6 +13,7 @@
 - 폴더명: SeoulWalkProject
 - [최종PDF](https://github.com/ryeomyoung2/SeoulWalkProject/blob/main/SeoulWalk/Seoul%20Walk.pdf)
 - [시연영상](https://www.youtube.com/watch?v=FQA0DWPVtXA)
+- <a href="https://seoulwalk.kro.kr">사이트 링크</a>
 
 **주요기능** 
 - **메인화면**
