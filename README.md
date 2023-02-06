@@ -28,3 +28,4 @@
  - **추천 코스**
    - 코스 리뷰 : 각 코스별 리뷰 게시판 구현, Ajax를 사용한 비동기 페이징 구현
 
+ ![3](https://user-images.githubusercontent.com/115764986/216863688-d00bf619-07be-489e-b25f-77acf7ed2079.gif)
