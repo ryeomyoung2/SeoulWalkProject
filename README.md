@@ -34,4 +34,4 @@
    - 유형 테스트 -> 8가지 질문을 통해 코스 추천
    - 테스트 결과를 sns로 공유
 
- ![4](https://user-images.githubusercontent.com/115764986/216864823-ddd18ce4-85ec-450b-a145-736b2e21cc81.gif)
+ ![4](https://user-images.githubusercontent.com/115764986/216865478-c982c47e-9862-4bf7-9f5a-5284864e33bd.gif)
