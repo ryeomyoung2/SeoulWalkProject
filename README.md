@@ -18,3 +18,6 @@
 - **메인화면**
 
  ![1](https://user-images.githubusercontent.com/115764986/216860479-51b211c0-8e9f-4056-96f3-33a9d99999ba.jpg)
+
+- **둘레길 코스**
+ - 코스 시각화 : 네이버 지도 api를 통해 지도 표시, DB(경도, 위도) - Controller - Javascript 를 통해 경로 시각화
