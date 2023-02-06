@@ -17,7 +17,7 @@
 **주요기능** 
 - **메인화면**
 
- <img src="https://user-images.githubusercontent.com/115764986/216860479-51b211c0-8e9f-4056-96f3-33a9d99999ba.jpg"  width="600" height="480">
+    <img src="https://user-images.githubusercontent.com/115764986/216860479-51b211c0-8e9f-4056-96f3-33a9d99999ba.jpg"  width="600" height="480">
 
 - **둘레길 코스**
   - 서울 둘레길 코스 시각화 : 네이버 map api를 사용하여 지도 표시
