@@ -17,7 +17,7 @@
 **주요기능** 
 - **메인화면**
 
-    <img src="https://user-images.githubusercontent.com/115764986/216860479-51b211c0-8e9f-4056-96f3-33a9d99999ba.jpg"  width="600" height="480">
+   <img src="https://user-images.githubusercontent.com/115764986/216860479-51b211c0-8e9f-4056-96f3-33a9d99999ba.jpg"  width="600" height="480">
 
  <br><br><br><br>
 
@@ -25,14 +25,14 @@
   - 서울 둘레길 코스 시각화 : 네이버 map api를 사용하여 지도 표시
   - DB(경도, 위도) - Controller - Javascript 를 통해 경로 시각화
 
-    ![2](https://user-images.githubusercontent.com/115764986/216862469-43fe4edc-c41c-4814-88cd-0f65d68a4e7a.gif)
+   ![2](https://user-images.githubusercontent.com/115764986/216862469-43fe4edc-c41c-4814-88cd-0f65d68a4e7a.gif)
  
  <br><br><br><br>
 
  - **추천 코스**
    - 코스 리뷰 : 각 코스별 리뷰 게시판 구현, Ajax를 사용한 비동기 페이징 구현
 
-     ![3](https://user-images.githubusercontent.com/115764986/216863688-d00bf619-07be-489e-b25f-77acf7ed2079.gif)
+    ![3](https://user-images.githubusercontent.com/115764986/216863688-d00bf619-07be-489e-b25f-77acf7ed2079.gif)
 
  <br><br><br><br>
 
@@ -40,14 +40,19 @@
    - 유형 테스트 -> 8가지 질문을 통해 코스 추천
    - 테스트 결과를 sns로 공유
 
-     ![4](https://user-images.githubusercontent.com/115764986/216865478-c982c47e-9862-4bf7-9f5a-5284864e33bd.gif)
+    ![4](https://user-images.githubusercontent.com/115764986/216865478-c982c47e-9862-4bf7-9f5a-5284864e33bd.gif)
  
  <br><br><br><br> 
  
  - **그밖의 길**
    - JPA를 활용하여 지역/코스길이/시간/난이도 별 산책로 목록 검색
    
-     ![5](https://user-images.githubusercontent.com/115764986/216866081-9edd7d6f-b365-409c-9742-b6d76f7250ac.gif)
+    ![5](https://user-images.githubusercontent.com/115764986/216866081-9edd7d6f-b365-409c-9742-b6d76f7250ac.gif)
    
  <br><br><br><br>
 
+ - **커뮤니티**
+   - 공지사항 : 관리자 계정만 사용 가능하도록 접근 제한
+   - 접근 제한 : 세션값을 검증하여 로그인 페이지로 이동, 로그인 시 이전 페이지로 이동
+   
+    ![5](https://user-images.githubusercontent.com/115764986/216866081-9edd7d6f-b365-409c-9742-b6d76f7250ac.gif)
