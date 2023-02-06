@@ -25,6 +25,10 @@
 
     ![2](https://user-images.githubusercontent.com/115764986/216862469-43fe4edc-c41c-4814-88cd-0f65d68a4e7a.gif)
  
+ 
+ 
+ 
+ 
  - **추천 코스**
    - 코스 리뷰 : 각 코스별 리뷰 게시판 구현, Ajax를 사용한 비동기 페이징 구현
 
