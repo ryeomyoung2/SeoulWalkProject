@@ -55,4 +55,4 @@
    - 공지사항 : 관리자 계정만 사용 가능하도록 접근 제한
    - 커뮤니티 : CRUD기능, 추천, JPA를 활용한 게시글 페이징과 검색
    
-    ![5](https://user-images.githubusercontent.com/115764986/216866081-9edd7d6f-b365-409c-9742-b6d76f7250ac.gif)
+    ![6](https://user-images.githubusercontent.com/115764986/216868847-c178f9cc-b272-4ad1-97f0-592f6aacf297.gif)
