@@ -15,5 +15,5 @@
 - [시연영상](https://www.youtube.com/watch?v=FQA0DWPVtXA)
 
 **주요기능** 
-- 
+- 메인화면
 - ![1](https://user-images.githubusercontent.com/115764986/216860479-51b211c0-8e9f-4056-96f3-33a9d99999ba.jpg)
