@@ -39,4 +39,8 @@
  
  - **그밖의 길**
    - JPA를 활용하여 지역/코스길이/시간/난이도 별 산책로 목록 검색
+   
+   ![5](https://user-images.githubusercontent.com/115764986/216866081-9edd7d6f-b365-409c-9742-b6d76f7250ac.gif)
+   
+    
 
